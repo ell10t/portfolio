@@ -13,9 +13,9 @@ title: "About"
             Hiya!
         </h1>
         <h2 class="text-lg sm:text-2xl text-gray-600 dark:text-gray-400">
-            I'm Elliot, a UI enginner at
-            <a class="text-blue-500 hover:text-blue-600 hover:underline" href="https://www.intelliflo.com" title="Intelliflo">
-                Intelliflo
+            I'm Elliot, a senior engineer at
+            <a class="text-blue-500 hover:text-blue-600 hover:underline" href="https://www.recipero.com" title="Recipero">
+                Recipero
             </a>
         </h2>
     </hgroup>
