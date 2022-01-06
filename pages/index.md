@@ -59,6 +59,26 @@ I need to add more here, umm... Come back later when once I've had a little more
 <header class="flex justify-between mb-4">
     <hgroup>
         <h2 class="text-xl sm:text-2xl text-gray-100 font-bold">
+            Recipero
+        </h2>
+        <h3 class="text-sm sm:text-base uppercase text-gray-500 font-medium">
+            Senior Engineer
+        </h3>
+    </hgroup>
+    <aside>
+        <span class="text-gray-500 font-medium">2021 +</span>
+    </aside>
+</header>
+
+Hmm, full circle
+
+</article>
+
+<article class="text-article py-8">
+
+<header class="flex justify-between mb-4">
+    <hgroup>
+        <h2 class="text-xl sm:text-2xl text-gray-100 font-bold">
             Intelliflo
         </h2>
         <h3 class="text-sm sm:text-base uppercase text-gray-500 font-medium">
@@ -66,7 +86,7 @@ I need to add more here, umm... Come back later when once I've had a little more
         </h3>
     </hgroup>
     <aside>
-        <span class="text-gray-500 font-medium">2019 +</span>
+        <span class="text-gray-500 font-medium">2019 - 2021</span>
     </aside>
 </header>
 
